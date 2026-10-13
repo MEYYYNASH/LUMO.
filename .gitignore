@@ -17,8 +17,8 @@ local.properties
 .env
 debug.keystore
 debug.keystore.base64
-*.apk
 .build-outputs/
 build/
 app/build/
 .aistudio/
+app-debug.apk
