@@ -1,0 +1,6 @@
+{
+  "name": "LUMO",
+  "description": "Premium dark-first music and video player with authorized media downloads, interactive waveform scrubbing, playlists, lock-screen MediaSession controls, and 5 curated themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
